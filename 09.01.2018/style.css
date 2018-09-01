@@ -1,0 +1,12 @@
+.main {
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.alert-succes {
+    width: 150px;
+    height: 150px;
+    padding: 0.5em;
+}
